@@ -711,7 +711,7 @@ def show_feedback_viewer():
                         st.rerun()
 
     # -----------------------------
-    # 🧠 General Strategy Viewer
+    #  General Strategy Viewer
     # -----------------------------
     st.markdown("---")
     st.markdown("##### General Strategy Feedback Viewer")
